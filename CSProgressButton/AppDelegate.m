@@ -20,7 +20,6 @@
     
     // Override point for customization after application launch.
     
-    // Override point for customization after application launch.
     UINavigationController *navigationController = [[UINavigationController alloc] initWithRootViewController:[[ViewController alloc] init]];
     navigationController.navigationBar.translucent = NO;
     navigationController.navigationBar.barTintColor = [UIColor colorWithRed:66/255.0 green:212/255.0 blue:153/255.0 alpha:1];
